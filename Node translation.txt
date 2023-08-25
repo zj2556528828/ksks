@@ -1,0 +1,38 @@
+SetFillAngle   填充角   OutPercentage   超出百分比     GetDataManagerRef  获取数据管理器参考   AndroidDataAircon  安卓数据空调  Blueprintcallable 蓝图可调用 
+WindowAngleParameter  窗口角度参数    GetDataOfIntEerdataManager  获取Int Eerdata Manager的数据 Reverse 使反转  Change Camera to Preset ( Key ) 将相机更改为预设（关键帧）
+CurAngle    转弯角度   EndAngle  结束角度  Switch 转换  Set operation State 设置操作状态  Energy 能量  Jade Powder  玉粉  Quartz _ Grey 石英_灰色
+Send Android Data Int to Received    将Android数据发送到接收端  Direction Click Box 方向点击框 Update Anim Param 更新动画参数
+CFor Each Loop with Break    C用于带断路器的每个回路 Charge Rate 充电率 Power Line 电力线 Update Electric Current 更新电流  E_Charge State  E_充电状态  
+Array Index    数组索引       E_CarSide   车侧（_C） Set Progress Seat Location 设置进度座位位置 Encode Data for Struct 对结构的数据进行编码
+ForEachE_CarSide   每个E_车侧   SetNeedleAngle  设置打捆针角度   set Wheel Style 设置控制盘样式 Set Charge State 设置充电状态  LVS_VC1_Calibration_Config  LVS_VC1_校准_配置
+BP IF System Lib   BP IF系统库   common  Frontleft Front Right Rearleft Rearrioht  通用左前右后左后 Set Discharge Limit 设置放电限制 RIM 21  轮辋21   
+RadialGradientExponential  径向梯度指数  DischargeLimit 放电限制  Set Battery Percentage 设置电池百分比  Manifest  显示 Spotflash  聚光灯  Dependency  依赖性
+BackrestAngle 靠背角度   CarBodyChange   车身更换  Set Point state  设定点状态  BatteryPercentage 电池百分比  VariantManaqer  变体管理器  
+CushionAngle 缓冲角度     seat top static camerag  座椅顶部静态摄像机  Set Discharge Limit 设置排放限制  Make Wheel Data 制造车轮数据
+"FIXME: notify in control mode and check Seat Position" 的中文翻译可以是 "修正：在控制模式下通知并检查座位位置"。同样，具体的翻译可能会根据上下文稍有变化。     
+Position Back ward    位置向后  Degrees  度   ChargeState  充电状态 Update Line Percentage 更新行百分比  Interior  内部
+PositionToRight    位置向右    oOnNotifyDataInt(Internaldatalistener)   通知时数据（内部标识符）out Range 超出范围  E_CameraPlayState  摄像机播放状态（_C）
+Massage 按摩  Init Data 初始化数据 Make Seat Event 创建座位活动  Set Battery Percentag  设置电池百分比 Capture new actors and properties  捕获新的参与者和属性
+HotCold    冷热   Cur seatlocation  当前座位位置   PointState 点状态 DRAG 阻力 Chargestate 充电状态  NoneBattery PercentageChargelimitDischargelimitChargestate  非电池百分比充电限制放电限制充电状态  
+getDataofInt    获取Int的数据    Reandroiddatalnternal   回复内部   HandleTouchMove  处理触摸移动  IMPLEMENT_MODULE  实现模块
+PublicSystemIncludePaths  公共系统包含路径   PublicAdditionalLibraries.Add  公共附加库.Add   MPC_EnergyControl  MPC_能量控制  
+CurMassageIntensity   Cur按摩强度   EandroidDataSeatPos  E安卓数据座椅位置 ChargeLimit 费用限额  LVS_VC1_Environment   LVS_VC1_环境
+CurMassageMode    设置按摩模式  Update Backrest Rotator  更新靠背旋转器  UnrealBuildTool.exe  虚幻生成工具.exe
+DataManager_Core    数据管理器核心   Calculate Touch Angle  计算触摸角度  Start Idle Check  启动空闲检查  Sunrise Coral  日出珊瑚  
+GetDataManagerRef    获取数据管理器参考  PressPos 按压位置  Update Anim Param  更新动画参数 BLOW 吹风  Nephrite . Grey  软玉。灰色
+SetprogressSeatLocation    设置进度座位位置 To Screen Position 至屏幕位置 discharge Rate 放电率  Urban Breeze  城市微风    HandleAndroidBackButton  处理Android后退按钮
+Degress   垂直   set operation State   设置操作状态 Reset point location 重置点位置  AddEngineThirdPartyPrivateStaticDependencies  添加引擎第三方专用站点依赖项  
+Update Seat AC    更新座椅AC       UpdateSeatMassage 更新座椅按摩 CHARGE 充电 PrivateDependencyModuleNames 私有依赖模块名称
+FormatOutArrayOfFString       格式化FString的数组  E_SeatAdjust  电动座椅调整  energy 能量  NoneSystemSceneUseroperationDoor WindowSeatADAS  非系统场景用户操作车门车窗座椅ADAS
+UFormatOutTools      U格式输出工具  Set Discharge Limit  设置排放限制  Set Charge Limit 设置充电限制  DeleteLocalRef  删除本地引用
+CurSeatpos Cur座椅位置   CurSeatPos   发送邮件  Update Seat AC 更新座椅AC  OutsideEnergy  外部能源  Urban Breeze  城市微风
+BPMultiposCamera        BP多功能摄像机   BP F Seat  BP F座椅 Update Line Percentage 更新行百分比  Maping Level Enum  映射级别枚举
+CastCamera  投射相机     Datamanager Core   数据管理器核心  Vertical Move DPoint 垂直移动D点  Someactor  某个演员
+None  无   Seat Light  座椅灯  Update Seat Massage  更新座椅按摩  Update Battery Color 更新电池颜色  Frontleftleft  前左左
+ SurroundCameraMove 全方位车身影像移动   Ignore 忽视  Convert Rate  转换率 Multiple Nodes  多个节点  ModuleType.External  模块类型。外部
+CurSeatLocation 当前座椅位置  Move Limit 移动限制 Check Move 检查移动  OutsideEnergy  外部能源 ModuleRules  模块规则
+TopWheel  顶部车轮   Offset  抵消  Set Progress Seat Location  设置进度座位位置  Android Setup and Package-please Read Description  安卓设置和软件包请阅读说明
+  SurroundCameraPlaying  全方位车身摄像头  Discharge Limit  排放限值 Charge Limit 限值 Java Native Interface  Java本机接口
+OutsideBG 在BG外播放  Backrest Rotator Progress  靠背旋转器进度 Active Point 活动点  Demystifying linker errors  解密链接器错误
+SurroundCameraZoom  全方位车身影像缩放   Critical 关键的   Box Handle Touch  箱子把手触摸  SEND_DATA_RECEIVED  发送数据接收
+          
