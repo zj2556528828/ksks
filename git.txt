@@ -1,0 +1,63 @@
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git
+$ git init
+Initialized empty Git repository in D:/text_git/.git/
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ git lfs install
+Updated Git hooks.
+Git LFS initialized.
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ git lfs track *
+Tracking "Game_source_code"
+Tracking "Unity3D Portals package 2 1.0 _爱给网_aigei_com.zip"
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ git add .gitattributes
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ git commit -m "first commit"
+[master (root-commit) 669d6b2] first commit
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitattributes
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ git remote add origin https://github.com/zj2556528828/unity_project.git
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ git push origin master
+fatal: unable to access 'https://github.com/zj2556528828/unity_project.git/': Op
+enSSL SSL_read: SSL_ERROR_SYSCALL, errno 0
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ ^C
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ git config --global url."https://".insteadOf git://
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ git config --global http.sslVerify false
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ git add *
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ ^C
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ git commit-m "Git LFS commit"
+git: 'commit-m' is not a git command. See 'git --help'.
+
+The most similar command is
+        commit-tree
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ git commit -m "Git LFS commit"
+[master 110d093] Git LFS commit
+ 1 file changed, 3 insertions(+)
+ create mode 100644 "Unity3D Portals package 2 1.0 _\347\210\261\347\273\231\347\275\221_aigei_com.zip"
+
+Administrator@WIN-HP02MI849OO MINGW64 /d/text_git (master)
+$ git push origin master
+fatal: unable to access 'https://github.com/zj2556528828/unity_project.git/': OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 0
